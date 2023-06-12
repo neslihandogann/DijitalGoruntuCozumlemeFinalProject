@@ -1,0 +1,17 @@
+C:\Users\dogan\Desktop\goruntusifrelel\ImageEncryption\ImageEncryption\bin\Debug\ImageEncryption.exe.config
+C:\Users\dogan\Desktop\goruntusifrelel\ImageEncryption\ImageEncryption\bin\Debug\ImageEncryption.exe
+C:\Users\dogan\Desktop\goruntusifrelel\ImageEncryption\ImageEncryption\bin\Debug\ImageEncryption.pdb
+C:\Users\dogan\Desktop\goruntusifrelel\ImageEncryption\ImageEncryption\obj\Debug\ImageEncryption.csproj.AssemblyReference.cache
+C:\Users\dogan\Desktop\goruntusifrelel\ImageEncryption\ImageEncryption\obj\Debug\ImageEncryption.Form1.resources
+C:\Users\dogan\Desktop\goruntusifrelel\ImageEncryption\ImageEncryption\obj\Debug\ImageEncryption.Properties.Resources.resources
+C:\Users\dogan\Desktop\goruntusifrelel\ImageEncryption\ImageEncryption\obj\Debug\ImageEncryption.csproj.GenerateResource.cache
+C:\Users\dogan\Desktop\goruntusifrelel\ImageEncryption\ImageEncryption\obj\Debug\ImageEncryption.csproj.CoreCompileInputs.cache
+C:\Users\dogan\Desktop\goruntusifrelel\ImageEncryption\ImageEncryption\obj\Debug\ImageEncryption.exe
+C:\Users\dogan\Desktop\goruntusifrelel\ImageEncryption\ImageEncryption\obj\Debug\ImageEncryption.pdb
+C:\Users\dogan\Desktop\goruntusifrelemecsharp\ImageEncryption\ImageEncryption\obj\Debug\ImageEncryption.csproj.AssemblyReference.cache
+C:\Users\dogan\Desktop\goruntusifrelemecsharp\ImageEncryption\ImageEncryption\obj\Debug\ImageEncryption.Form1.resources
+C:\Users\dogan\Desktop\goruntusifrelemecsharp\ImageEncryption\ImageEncryption\obj\Debug\ImageEncryption.Properties.Resources.resources
+C:\Users\dogan\Desktop\goruntusifrelemecsharp\ImageEncryption\ImageEncryption\obj\Debug\ImageEncryption.csproj.GenerateResource.cache
+C:\Users\dogan\Desktop\goruntusifrelemecsharp\ImageEncryption\ImageEncryption\obj\Debug\ImageEncryption.csproj.CoreCompileInputs.cache
+C:\Users\dogan\Desktop\goruntusifrelemecsharp\ImageEncryption\ImageEncryption\obj\Debug\ImageEncryption.exe
+C:\Users\dogan\Desktop\goruntusifrelemecsharp\ImageEncryption\ImageEncryption\obj\Debug\ImageEncryption.pdb
